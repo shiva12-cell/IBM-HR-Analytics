@@ -1,4 +1,4 @@
-Google Data Studio Project
+# Google Data Studio Project
 
 An end-to-end data analytics and verification project examining employee attrition drivers at IBM. This repository contains the raw HR dataset, visual dashboard insights, and strategic recommendations to improve employee retention.
 
