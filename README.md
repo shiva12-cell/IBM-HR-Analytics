@@ -19,7 +19,7 @@ Employee attrition directly impacts organizational stability, productivity, and 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -29,7 +29,7 @@ Employee attrition directly impacts organizational stability, productivity, and 
 ```
 --
 
-## 📈 Key Attrition Drivers & Deep Insights
+##  Key Attrition Drivers & Deep Insights
 
 ### 1. Age & Career Stage Vulnerability
 * Employees in the **18–25 age bracket** exhibit the highest attrition rate (**35.77%**), followed by **26–35** (**19.14%**).
@@ -51,7 +51,7 @@ Employee attrition directly impacts organizational stability, productivity, and 
 
 ---
 
-## 💡 Strategic Recommendations for HR Leadership
+##  Strategic Recommendations for HR Leadership
 
 1. **Early Career Mentorship & Career Pathing (18–25 Age Group):**
    * Establish structured career development, mentorship, and clear promotion timelines to retain young talent.
