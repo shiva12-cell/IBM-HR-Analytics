@@ -1,4 +1,4 @@
-# Adecco India HR Analytics & Attrition Analysis
+# HR Analytics & Attrition Analysis
 Excel & Data Verification Project
 An end-to-end data analytics and verification project examining employee attrition drivers at Adecco India. This repository contains the HR dataset, diagnostic analytical findings, and strategic recommendations to improve employee retention.
 ---
@@ -15,8 +15,8 @@ Employee attrition directly impacts organizational stability, productivity, and 
 ## Repository Structure
 ```
 .
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv  # HR Analytics Dataset & Analysis (1,470 rows x 35 columns)
-├── TEMPLATE_FORMAT.md                    # Standardized Portfolio Template Format
+├── HR Analytics Final Dataset.xlsx       # HR Analytics Dataset & Analysis (1,470 rows x 35 columns)
+├── IBM_HR_Analytics_Analytics_Dashboa    # Standardized Portfolio Template Format
 └── README.md                             # Project Documentation & Findings
 ```
 ---
